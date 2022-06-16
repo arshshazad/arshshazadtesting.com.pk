@@ -1,0 +1,18 @@
+h1{
+	font-family:"Shadows Into Light";
+	text-align: center;
+	border: 20px 5px;
+	
+}
+
+img{
+	width: 600px;
+	height: 350px;
+	margin: 10px;
+	transition: all 1s;
+
+}
+
+img:hover{
+	transform: scale(1.1);
+}

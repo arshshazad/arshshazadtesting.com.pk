@@ -1,0 +1,16 @@
+h1{
+	color: darkred;
+	background-color: limegreen;
+	text-align: center;
+	border: 10px solid rgb(0, 0, 0);
+}
+h2{
+	background-color: yellow;
+}
+body{
+	background-image: url(yoyoyo.jpg);
+	color: white;
+}
+a{
+	color: #000000;
+}
